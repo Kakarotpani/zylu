@@ -2,5 +2,4 @@
 
 Assignment Submitted.
 
-![](https://drive.google.com/file/d/1RiH9WH5EjKg62V7WwfDyLe5bEtYmH99X/view?usp=sharing)
-
+![Android Emulator](https://user-images.githubusercontent.com/59501811/193420586-42dbf6b0-3252-4f83-9220-dadf4cdaf1bf.png)
